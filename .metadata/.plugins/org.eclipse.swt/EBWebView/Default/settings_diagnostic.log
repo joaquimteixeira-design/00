@@ -390,3 +390,6 @@
 {"logTime": "1123/141117", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
 {"logTime": "1123/141117", "level": "INFO", "message": "Preference changed: name=edge.bookmarks.last_dup_info_record_time, new_value=\"13439916677664846\", source=unknown"}
 {"logTime": "1123/141127", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1123/141137", "level": "INFO", "message": "Preference changed: name=profile.last_time_password_store_metrics_reported, new_value=1795443097.634447, source=unknown"}
+{"logTime": "1123/141137", "level": "INFO", "message": "Preference changed: name=edge_wallet.passwords.password_lost_report_date, new_value=\"13439916697634762\", source=unknown"}
+{"logTime": "1123/141147", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
